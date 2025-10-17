@@ -1,0 +1,3 @@
+don't use multiple email and contact
+dont use space in between pincode and contact
+dont use vlookups
